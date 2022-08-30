@@ -1,0 +1,18 @@
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_ACLIPA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_aclipa.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_aclipa.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_DRAW16.ASM
+ml /c /Cp /coff /Fo.\..\release\r_draw16.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_draw16.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_DRAWA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_drawa.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_drawa.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_EDGEA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_edgea.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_edgea.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_POLYSA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_polysa.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_polysa.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_SCANA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_scana.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_scana.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_SPR8.ASM
+ml /c /Cp /coff /Fo.\..\release\r_spr8.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_spr8.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_SURF8.ASM
+ml /c /Cp /coff /Fo.\..\release\r_surf8.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_surf8.asm
+^E:\QUAKE2DEMO\SRC\QUAKE2-3.21\REF_SOFT\R_VARSA.ASM
+ml /c /Cp /coff /Fo.\..\release\r_varsa.obj /Zm /Zi E:\Quake2Demo\src\quake2-3.21\ref_soft\r_varsa.asm

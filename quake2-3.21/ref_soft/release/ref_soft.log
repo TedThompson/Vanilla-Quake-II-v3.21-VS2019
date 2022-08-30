@@ -1,0 +1,56 @@
+﻿  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_aclipa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_draw16.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_drawa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_edgea.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_polysa.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_scana.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_spr8.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_surf8.asm
+  Performing Custom Build Tools
+  Microsoft (R) Macro Assembler Version 14.29.30146.0
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+   Assembling: E:\Quake2Demo\src\quake2-3.21\ref_soft\r_varsa.asm
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_aclipa.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_draw16.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_drawa.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_edgea.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_polysa.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_scana.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_spr8.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_surf8.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8065: Custom build for item "r_varsa.asm" succeeded, but specified output "e:\quake2demo\src\quake2-3.21\release\.obj" has not been created. This may cause incremental build to work incorrectly.
+  r_edge.c
+c1 : fatal error C1083: Cannot open source file: 'r_edge.c': No such file or directory
